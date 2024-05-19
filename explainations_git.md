@@ -27,4 +27,6 @@ command+w
 
 
         19:29 on est bien. J'ai pu 'git pull' le fichier README.md que j'ai écris sur le github.
+        et pour charger sur le site, plus besoin de faire la commande entiere, juste 
+        git push
 
