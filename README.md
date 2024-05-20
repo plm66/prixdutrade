@@ -29,3 +29,9 @@ renseigner les questions, that's it!
 même si cet environnement n'est pas fondamental, je peux l'utiliser
 avec source .venv/bin/activate
 Mais pour l'instant, je ne vois aucun interet. Sauf que ....
+
+
+lundi 20 mai 2024, le jour d'apres.
+je me demande si je ne devrais pas lancer cette app online
+soit avec un streamlit sur contabo
+soit avec un simple google colab. | 👍🏼
