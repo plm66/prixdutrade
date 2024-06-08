@@ -1,6 +1,13 @@
 dimanche 19 mai 2024,
 
-on est sur un dossier dans mc. Il permet de :
+Macbook, 
+cd /Users/erasmus/DEVELOPER/Python_coding/LePrixDuTrade
+
+
+
+
+
+Il permet de :
 * recuperer le prix du bitcoin ( sans librairie exterieure )
 * ==definir la position que je dois engager
 * en tenant compte de :
